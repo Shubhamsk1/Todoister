@@ -1,4 +1,4 @@
-package com.bawp.todoister;
+package com.shubham_kudekar.todoister;
 
 import org.junit.Test;
 

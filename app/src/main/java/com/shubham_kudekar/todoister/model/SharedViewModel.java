@@ -1,4 +1,4 @@
-package com.bawp.todoister.model;
+package com.shubham_kudekar.todoister.model;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

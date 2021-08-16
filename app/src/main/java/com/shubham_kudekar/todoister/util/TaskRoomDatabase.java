@@ -1,9 +1,9 @@
-package com.bawp.todoister.util;
+package com.shubham_kudekar.todoister.util;
 
 import android.content.Context;
 
-import com.bawp.todoister.data.TaskDao;
-import com.bawp.todoister.model.Task;
+import com.shubham_kudekar.todoister.data.TaskDao;
+import com.shubham_kudekar.todoister.model.Task;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

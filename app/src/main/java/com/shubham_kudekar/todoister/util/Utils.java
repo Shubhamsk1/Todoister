@@ -1,12 +1,12 @@
-package com.bawp.todoister.util;
+package com.shubham_kudekar.todoister.util;
 
 import android.content.Context;
 import android.graphics.Color;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
-import com.bawp.todoister.model.Priority;
-import com.bawp.todoister.model.Task;
+import com.shubham_kudekar.todoister.model.Priority;
+import com.shubham_kudekar.todoister.model.Task;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

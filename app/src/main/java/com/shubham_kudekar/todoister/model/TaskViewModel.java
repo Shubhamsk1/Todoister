@@ -1,8 +1,8 @@
-package com.bawp.todoister.model;
+package com.shubham_kudekar.todoister.model;
 
 import android.app.Application;
 
-import com.bawp.todoister.data.DoisterRepository;
+import com.shubham_kudekar.todoister.data.DoisterRepository;
 
 import java.util.List;
 

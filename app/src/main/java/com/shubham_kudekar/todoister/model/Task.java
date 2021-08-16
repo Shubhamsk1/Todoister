@@ -1,4 +1,4 @@
-package com.bawp.todoister.model;
+package com.shubham_kudekar.todoister.model;
 
 import java.util.Date;
 

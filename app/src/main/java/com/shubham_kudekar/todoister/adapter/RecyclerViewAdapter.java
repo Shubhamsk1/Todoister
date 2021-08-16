@@ -1,4 +1,4 @@
-package com.bawp.todoister.adapter;
+package com.shubham_kudekar.todoister.adapter;
 
 import android.content.res.ColorStateList;
 import android.graphics.Color;
@@ -6,9 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.bawp.todoister.R;
-import com.bawp.todoister.model.Task;
-import com.bawp.todoister.util.Utils;
+import com.shubham_kudekar.todoister.R;
+import com.shubham_kudekar.todoister.model.Task;
+import com.shubham_kudekar.todoister.util.Utils;
 import com.google.android.material.chip.Chip;
 
 import java.util.List;

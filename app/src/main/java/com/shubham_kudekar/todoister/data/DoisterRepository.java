@@ -1,9 +1,9 @@
-package com.bawp.todoister.data;
+package com.shubham_kudekar.todoister.data;
 
 import android.app.Application;
 
-import com.bawp.todoister.model.Task;
-import com.bawp.todoister.util.TaskRoomDatabase;
+import com.shubham_kudekar.todoister.model.Task;
+import com.shubham_kudekar.todoister.util.TaskRoomDatabase;
 
 import java.util.List;
 

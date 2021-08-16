@@ -1,6 +1,6 @@
-package com.bawp.todoister.adapter;
+package com.shubham_kudekar.todoister.adapter;
 
-import com.bawp.todoister.model.Task;
+import com.shubham_kudekar.todoister.model.Task;
 
 public interface OnTodoClickListener {
     void onTodoClick( Task task);

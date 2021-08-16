@@ -1,10 +1,10 @@
-package com.bawp.todoister.util;
+package com.shubham_kudekar.todoister.util;
 
 import java.util.Date;
 
 import androidx.room.TypeConverter;
 
-import com.bawp.todoister.model.Priority;
+import com.shubham_kudekar.todoister.model.Priority;
 
 
 

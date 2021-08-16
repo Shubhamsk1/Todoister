@@ -1,4 +1,4 @@
-package com.bawp.todoister;
+package com.shubham_kudekar.todoister;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -12,11 +12,11 @@ import android.widget.ImageButton;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-import com.bawp.todoister.model.Priority;
-import com.bawp.todoister.model.SharedViewModel;
-import com.bawp.todoister.model.Task;
-import com.bawp.todoister.model.TaskViewModel;
-import com.bawp.todoister.util.Utils;
+import com.shubham_kudekar.todoister.model.Priority;
+import com.shubham_kudekar.todoister.model.SharedViewModel;
+import com.shubham_kudekar.todoister.model.Task;
+import com.shubham_kudekar.todoister.model.TaskViewModel;
+import com.shubham_kudekar.todoister.util.Utils;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 import com.google.android.material.chip.Chip;
 import com.google.android.material.snackbar.Snackbar;

@@ -1,4 +1,4 @@
-package com.bawp.todoister.data;
+package com.shubham_kudekar.todoister.data;
 
 
 import java.util.List;
@@ -10,7 +10,7 @@ import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.bawp.todoister.model.Task;
+import com.shubham_kudekar.todoister.model.Task;
 
 @Dao
 public interface TaskDao {
