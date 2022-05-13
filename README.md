@@ -7,16 +7,3 @@
 
 <img width="209" alt="photo3" src="https://user-images.githubusercontent.com/55309070/129507717-956431a2-2bbd-4efb-a33a-4ddbb6f49108.png">
 </div>
-
-| Stages | sr_support_backend | sr_support_frontend | srprospector_backend | emailwarmup_backend | 
-|---------------------------------- |---------------|---------------|----------------|-----------|
-| *custom-docker* | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center>
-| *build*| <center>✅</center> | <center>✅</center> |  <center>✅</center> | <center>⬜️</center>  |
-| *create*|<center>✅</center>| <center>NA</center> | <center>⬜️</center>  | <center>⬜️</center>  |
-| *sonar*| <center>⬜️</center>| <center>⬜️</center> | <center>⬜️</center> | <center>⬜️</center>|
-| *review*| <center>✅</center> | <center>NA</center> | <center>⬜️</center>  | <center>⬜️</center>  |
-| *bridge*| <center>✅</center> | <center>NA</center> | <center>⬜️</center>  | <center>⬜️</center>  |
-| *staging*| <center>✅</center> | <center>✅</center> | <center>⬜️</center>  | <center>⬜️</center>  |
-| *smoke test staging*| <center>✅</center>| <center>✅</center> | <center>⬜️</center>  | <center>⬜️</center>  |
-| *production*| <center>✅</center>| <center>✅</center> | <center>⬜️</center>  | <center>⬜️</center>  |
-| *smoke test production*| <center>✅</center> | <center>✅</center> | <center>⬜️</center>  | <center>⬜️</center>  |
